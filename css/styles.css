@@ -10246,8 +10246,8 @@ body {
 }
 
 .image-cropper {
-    width: 100px;
-    height: 100px;
+    width: 300px;
+    height: 300px;
     position: relative;
     overflow: hidden;
     border-radius: 50%;

@@ -10292,6 +10292,10 @@ body {
   margin-bottom: 5rem;
 }
 
+.about img {
+  border: 5px solid #555;
+}
+
 .projects-section {
   padding: 10rem 0;
 }

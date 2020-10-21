@@ -10244,6 +10244,11 @@ body {
   -webkit-background-clip: text;
           background-clip: text;
 }
+
+.masthead img {
+    border-radius: 50%;
+}
+
 .masthead h2 {
   max-width: 20rem;
   font-size: 1rem;

@@ -170,7 +170,7 @@ nav {
 
 #content { 
   text-align: left;
-  width: 444px;
+  width: 500px;
   padding: 0 0 5px 30px;
   margin: 0;
   float: left;
@@ -223,7 +223,7 @@ nav {
 
 footerContact { 
   width: 950px;
-  font: normal 120% 'News Cycle',  arial, sans-serif;
+  font: normal 150% 'News Cycle',  arial, sans-serif;
   height: 70px;
   padding: 20px 0 5px 0;
   text-align: center; 

@@ -168,9 +168,25 @@ nav {
   height: 450px;
 }
 
+#sidebar_container_right { 
+  float: right;
+  width: 250px;
+  padding: 0;
+  height: 250px;
+}
+
+
 #content { 
   text-align: left;
   width: 500px;
+  padding: 0 0 5px 30px;
+  margin: 0;
+  float: left;
+}
+
+#content_whole { 
+  text-align: left;
+  width: 800px;
   padding: 0 0 5px 30px;
   margin: 0;
   float: left;
@@ -359,7 +375,7 @@ ul.images li.show {
 }
  
 ul img {
-  border:none;  
+  border: 5px solid #555;;  
 }
 
 

@@ -14,7 +14,7 @@ html {
 }
 
 /* tell the browser to render HTML 5 elements as block */
-article, aside, figure, footer, header, hgroup, nav, section { 
+article, aside, figure, footer, footerContact header, hgroup, nav, section { 
   display:block;
 }
 
@@ -103,7 +103,7 @@ ol li {
   margin: 0 0 11px 0;
 }
 
-#main, header, #logo, nav, #site_content, footer { 
+#main, header, #logo, nav, #site_content, footer, footerContact { 
   margin-left: auto; 
   margin-right: auto;
 }
@@ -163,13 +163,13 @@ nav {
 
 #sidebar_container { 
   float: left;
-  width: 450px;
+  width: 350px;
   padding: 0;
   height: 450px;
 }
 
 #content { 
-  text-align: justify;
+  text-align: left;
   width: 444px;
   padding: 0 0 5px 30px;
   margin: 0;
@@ -221,14 +221,38 @@ nav {
   color: #222;
 }
 
-footer { 
+footerContact { 
   width: 950px;
-  font: normal 130% 'News Cycle',  arial, sans-serif;
-  height: 90px;
+  font: normal 120% 'News Cycle',  arial, sans-serif;
+  height: 70px;
   padding: 20px 0 5px 0;
   text-align: center; 
   color: #222;
   background: #D4D4D4;
+}
+
+footerContact p { 
+  padding: 0 0 10px 0;
+}
+
+footerContact a, footerContact a:hover { 
+  color: #222;
+  text-decoration: none;
+}
+
+footerContact a:hover { 
+  color: #7393B3;
+  text-decoration: underline;
+}
+
+footer { 
+  width: 950px;
+  font: normal 100% 'News Cycle',  arial, sans-serif;
+  height: 70px;
+  padding: 20px 0 5px 0;
+  text-align: center; 
+  color: #222;
+  background: ;
 }
 
 footer p { 
@@ -241,9 +265,10 @@ footer a, footer a:hover {
 }
 
 footer a:hover { 
-  color: #FFF;
+  color: #222;
   text-decoration: underline;
 }
+
 
 /* form styling */
 .form_settings { 

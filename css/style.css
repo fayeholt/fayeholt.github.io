@@ -165,6 +165,13 @@ nav {
   float: left;
   width: 350px;
   padding: 0;
+  height: 150px;
+}
+
+#sidebar_container { 
+  float: left;
+  width: 350px;
+  padding: 0;
   height: 450px;
 }
 

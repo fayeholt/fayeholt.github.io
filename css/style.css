@@ -177,9 +177,9 @@ nav {
 
 #sidebar_container_right { 
   float: right;
-  width: 250px;
+  width: 450px;
   padding: 0;
-  height: 250px;
+  height: 700px;
 }
 
 
@@ -208,7 +208,7 @@ nav {
   background: transparent url(../images/bullet.png) no-repeat left center;
   margin: 0 0 0 0; 
   padding: 2px 0 2px 28px;
-  line-height: 1.5em;
+  line-height: 0em;
 }
 
 #blog_container h4 {

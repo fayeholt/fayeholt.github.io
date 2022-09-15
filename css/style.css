@@ -361,7 +361,7 @@ ul.images {
   width:300px;
   height:600px;
   overflow:hidden;
-  position:right;
+  position:relative;
   margin:0;
   padding:0;
   left:0px;

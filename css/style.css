@@ -156,7 +156,7 @@ nav {
   overflow: hidden;
   margin: 4px auto 0 auto;
   padding: 0;
-  background: #eee;
+ /* background: #eee;*/
   border-top: 0;
   border-bottom: 0;
 } 
@@ -373,7 +373,7 @@ ul.images li {
   margin:0;
   padding:0;
   left:0;
-  right:60;
+  right:70;
   list-style:none;
 }
  

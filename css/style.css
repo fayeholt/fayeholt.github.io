@@ -208,7 +208,7 @@ nav {
   background: transparent url(../images/bullet.png) no-repeat left center;
   margin: 0 0 0 0; 
   padding: 2px 0 2px 28px;
-  line-height: 0em;
+  line-height: 1.5em;
 }
 
 #blog_container h4 {
@@ -364,7 +364,7 @@ ul.images {
   position:relative;
   margin:0;
   padding:0;
-  left:40px;
+  left:0px;
   padding-top: 60px;
 } 
 
